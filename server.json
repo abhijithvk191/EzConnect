@@ -1,0 +1,23 @@
+{
+    "2": {
+        "key": "test",
+        "name": "rival",
+        "user": "root",
+        "ip": "10.10.1.101",
+        "port": "22"
+    },
+    "3": {
+        "key": "test",
+        "port": "22",
+        "name": "shared",
+        "user": "root",
+        "ip": "10.10.1.68"
+    },
+    "1": {
+        "key": "test",
+        "name": "MAS",
+        "user": "root",
+        "ip": "10.10.1.24",
+        "port": "22"
+    }
+}
